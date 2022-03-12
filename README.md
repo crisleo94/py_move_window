@@ -17,3 +17,7 @@ This application is made using the _windll_ module from [https://docs.python.org
 - [ ] Create find_windows function to make work from a tkinter button
 
 - [ ] Create a label_span or any other tkinter widget in order to show a list of the windows
+
+- [ ] Use ``ctypes`` to retrieve the correct active window list and positions
+
+- [ ] Read ``ctypes`` documentation
